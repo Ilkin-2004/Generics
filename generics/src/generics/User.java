@@ -1,6 +1,6 @@
 package generics;
 
-public class User {
+public class User<T>  {
  private String name;
  private String surname;
 
